@@ -31,4 +31,4 @@ for j in range(1,6):
         driver.back()
         driver.forward()
         collect.extend([[offernum,offername,linknew]])
-        
+print(collect)
